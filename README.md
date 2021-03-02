@@ -1,2 +1,55 @@
 # Ngosha's profile
-Mr. Mussa Josiah Ngosha is an ICT Officer at Tanzania Fisheries Research Institute (TAFIRI) under the ministry of Livedtock and Fisheries with great interest in Data Science and Geo - spatial data Analysis using Remote Sensing and GIS techniques and programming languages such as Python and R.He obtained a degree of bachelor of Science in Informatics at Sokoine University of Agriculture (SUA), Tanzania. He is currently a Masters student at the University of Dar es Salaam (UDSM), Tanzania pursuing Master of Science in Data Science. He is working on the GMES and AFRICA e-Station as an assistant system administrator at TAFIRI. He has been participating in SWIOFish projects conducted at TAFIRI as Fish Database manager. through building capacity, he has attended different short courses and training in fisheries and research data management as well as satellite oceanography from the following areas: Open Source GIS Training on the Manipulation of Raster and Vector Datasets and terrain modelling-TAFIRI, TANZANAIA, Marine Research Data Management- KMFRI, KENYA, CM Data Stream for Ocean Application in Africa-Accra, GHANA, Marine Spatial Planning (MSP) - KMFRI, KENYA, Using satellite data and GIS for sustainable management of marine resources- IMS-ZANZIBAR, TANZANIA, Ocean Management: Sustainable Fisheries and Government- Wollongong University AUSTRALIA, Inland Water and Integrated Ecosystem Monitoring in Africa TAFIRI, TANZANIA, Operation Oceanography – Mombasa, KENYA, Remote Sensing and GIS of Coral Reefs – TEHRAN, IRAN.
+Names: Mr. Mussa Josiah Ngosha
+
+Education: 
+
+1. Postgraduate
+   MSc in Data Science
+2. Undergraduate
+   BSc in Informatics
+3. Interests
+   Artificial Intelligence
+   Machine Learning
+   Deep Learning
+   Big Data Analytics and Visualization
+   Geospatial Data Management (Remote Sensing and GIS)
+   
+4. Programming Language
+
+   R & Python
+   
+5. Workshops & Training Courses Attended
+
+   (i) Open Source GIS Training on the Manipulation of Raster and Vector Datasets and terrain modelling-TAFIRI, TANZANAIA, 
+   (ii) Marine Research Data Management- KMFRI, KENYA, 
+   (iii) CM Data Stream for Ocean Application in Africa-Accra, GHANA, 
+   (iv) Marine Spatial Planning (MSP) - KMFRI, KENYA, Using satellite data and GIS for sustainable management of marine resources- IMS-ZANZIBAR, TANZANIA, 
+   (v) Ocean Management: Sustainable Fisheries and Government- Wollongong University AUSTRALIA, 
+   (vi) Inland Water and Integrated Ecosystem Monitoring in Africa TAFIRI, TANZANIA, 
+   (vii) Operation Oceanography – Mombasa, KENYA, Remote Sensing and GIS of Coral Reefs – TEHRAN, IRAN.
+   (viii) Ocean Satellite Data	National Oceanography and Atmospheric Administration (NOAA), San Juan, Puerto Rico
+   (ix) Regional Workshop on Stock Assessment and Estimation of SDG Indicator 14.4.1	INSTITUTE OF MARINE SCIENCE (IMS), ZANZIBAR, TANZANIA
+   (x) Geospatial Data Management	GeoICT-UNIVERSITY OF DAR ES SALAAM	6-Week Training Program
+   (xi) GIS for Education Access	TANZANIA DATA LAB (dLab), TANZANIA
+   (xii) Application of Earth Observation (EO) data	Digital Earth Africa (DEA)
+   (xiii) Spatial Data Science	Esri 
+   (xiv) Big Data and Artificial Intelligence (AI) for Earth Observation	European Commission
+   (xv) Earth Observation for wetlands’ monitoring, assessment, and management	GMES AND AFRICA
+   (xvi) Machine Learning and the Satellite Revolution 	Radiant Earth Foundation 
+   (xvii) Marine Weather Forecast 	GMES AND AFRICA
+   
+6. projects
+7. 
+   (i) Mapping of Fishing Areas in the coastal waters of the West Indian Ocean in Tanzania, project funded by World Bank through the Ministry of 
+   Livestock and Fisheries
+   
+   (ii) Identification of potential fishing zones using Remote Sensing techiniques, project funded by GMESA-Africa 
+   
+
+
+
+
+
+
+
+
