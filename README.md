@@ -1,13 +1,13 @@
 # Ngosha's profile
-Names: Mr. Mussa Josiah Ngosha
+Names: Mr. Mussa Ngosha
 
 Education: 
 
-1. Postgraduate
+1. Postgraduate:
    MSc in Data Science
-2. Undergraduate
+2. Undergraduate:
    BSc in Informatics
-3. Interests
+3. Interests:
    Artificial Intelligence
    Machine Learning
    Deep Learning
